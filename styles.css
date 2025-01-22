@@ -36,3 +36,7 @@ button {
     padding: 5px;
     border-radius: 10px;
 }
+#heroImg {
+    height: auto;
+    width: auto;
+}
