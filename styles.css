@@ -40,3 +40,6 @@ body {
     height: auto;
     width: auto;
 }
+.hero {
+    display: flex;
+}
