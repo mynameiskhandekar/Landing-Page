@@ -30,7 +30,7 @@ body {
     color: #F9FAF8;
     font-weight: 900;
 }
-button {
+#sign {
     background-color: blue;
     color: white;
     padding: 5px;
