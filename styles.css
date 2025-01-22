@@ -19,5 +19,9 @@ a {
 }
 .top {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+.headerLink {
+    display: flex;
+    gap: 10px;
 }
