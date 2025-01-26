@@ -33,10 +33,12 @@ ul {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    max-width: 450px;
  }
  .subtitle {
     font-size: 18px;
     color: #E5E7EB;
+    max-width: 450px;
  }
 
 .HeaderBody {
@@ -45,5 +47,9 @@ ul {
  }
 .hbright img {
     max-height: 200px;
-    
+    margin-left: 400px;
+}
+.hbleft button {
+    color: white;
+    background-color: #3882F6;
 }
