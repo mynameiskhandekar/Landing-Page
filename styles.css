@@ -52,4 +52,8 @@ ul {
 .hbleft button {
     color: white;
     background-color: #3882F6;
+    height: 22px;
+    width: 65px;
+    border: 1px solid black;
+    border-radius: 3px;
 }
