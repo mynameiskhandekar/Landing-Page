@@ -69,10 +69,11 @@ ul {
 .boxes {
     display: flex;
     justify-content: space-between;
+    left: 100px;
 }
 .box {
-    height: 600px;
-    width: 400px;
+    height: 300px;
+    width: 200px;
 }
 .box img {
     border: 3px solid #3882F6;
