@@ -1,0 +1,11 @@
+.HeaderTop {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+ a {
+    text-decoration: none;
+ }
