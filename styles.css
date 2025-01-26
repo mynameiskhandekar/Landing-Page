@@ -8,11 +8,15 @@
     font-family: "Roboto";
 
 }
+.HeaderLogo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
 .HeaderTop {
     display: flex;
     justify-content: space-between;
     margin: 0 100px ;
-    padding: 10px;
+    padding-top: 10px;
 }
 
 ul {
