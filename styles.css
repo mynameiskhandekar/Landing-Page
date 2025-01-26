@@ -19,3 +19,9 @@ ul {
     text-decoration: none;
     color: white;
  }
+
+ .title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+ }
