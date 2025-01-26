@@ -6,10 +6,12 @@
     color: white;
     background-color: #1F2937;
     font-family: "Roboto";
+    margin: 0 100px;
 }
 .HeaderTop {
     display: flex;
     justify-content: space-between;
+    /* margin: 0 100px ; */
 }
 
 ul {
@@ -30,3 +32,11 @@ ul {
     font-size: 18px;
     color: #E5E7EB;
  }
+
+.HeaderBody {
+    display: flex;
+ }
+.hbright img {
+    max-height: 200px;
+    
+}
