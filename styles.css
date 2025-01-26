@@ -64,10 +64,11 @@ ul {
     color: #1F2937;
     font-weight: 900;
     text-align: center;
+    padding: 25px;
 }
 .boxes {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .box {
     height: 600px;
