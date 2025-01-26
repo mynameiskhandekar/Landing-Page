@@ -67,4 +67,6 @@ ul {
 }
 .boxes {
     display: flex;
+    height: 600px;
+    width: 400px;
 }
