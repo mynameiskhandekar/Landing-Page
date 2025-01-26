@@ -63,8 +63,9 @@ ul {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
-    text-align: center;
-    padding: 25px;
+    /* text-align: center; */
+    /* padding: 25px; */
+    margin: 50px;
 }
 /* .boxes {
     color: #1F2937;
@@ -90,11 +91,17 @@ ul {
     font-size: 18px;
     display: flex;
     justify-content: center;
-    margin: 20px 50px 200px 200px;
+    /* margin: 20px 50px 200px 200px; */
+    gap: 40px;
  }
  .square {
     width: 150px;
     height: 150px;
     border: 5px solid #3882F6;
     border-radius: 10px;
+    /* text-align: center; */
+ }
+ .section2 {
+    margin: 30px;
+    text-align: center;
  }
