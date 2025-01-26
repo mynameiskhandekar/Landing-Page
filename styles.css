@@ -2,7 +2,10 @@
     padding: 0;
     margin: 0;
 }
-
+.Header {
+    color: white;
+    background-color: #1F2937;
+}
 .HeaderTop {
     display: flex;
 }
@@ -13,4 +16,5 @@ ul {
 }
  a {
     text-decoration: none;
+    color: white;
  }
