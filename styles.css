@@ -94,6 +94,10 @@ ul {
     /* margin: 20px 50px 200px 200px; */
     gap: 40px;
  }
+ .square img {
+    height: 100%;
+    width: 100%;
+ }
  .square {
     width: 150px;
     height: 150px;
