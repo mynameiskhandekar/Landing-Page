@@ -59,7 +59,7 @@ ul {
     border: 1px solid black;
     border-radius: 3px;
 }
-.section2 .s2header {
+.s2header {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
@@ -67,17 +67,20 @@ ul {
     padding: 25px;
 }
 .boxes {
-    display: flex;
-    justify-content: space-between;
-    left: 100px;
+    color: #1F2937;
+    font-size: 18px;
+    /* display: flex;
+    justify-content: space-between; */
 }
 .box {
     height: 300px;
     width: 200px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
 }
-.box img {
+/* .box img {
     border: 3px solid #3882F6;
     border-radius: 5px;
     height: 100px;
     width: 100px;
-}
+} */
