@@ -66,15 +66,16 @@ ul {
     text-align: center;
     padding: 25px;
 }
-.boxes {
+/* .boxes {
     color: #1F2937;
     font-size: 18px;
-    /* display: flex;
-    justify-content: space-between; */
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
 }
 .box {
-    height: 300px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     border: 5px solid #3882F6;
     border-radius: 10px;
 }
@@ -83,4 +84,4 @@ ul {
     border-radius: 5px;
     height: 100px;
     width: 100px;
-} */
+} */ 
