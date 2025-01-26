@@ -12,11 +12,13 @@
     display: flex;
     justify-content: space-between;
     margin: 0 100px ;
+    padding: 10px;
 }
 
 ul {
     display: flex;
     list-style: none;
+    gap: 20px;
 }
  a {
     text-decoration: none;
