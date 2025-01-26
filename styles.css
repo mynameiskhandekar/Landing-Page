@@ -67,6 +67,12 @@ ul {
 }
 .boxes {
     display: flex;
+}
+.box {
     height: 600px;
     width: 400px;
+}
+.box img {
+    height: 70%;
+    width: 100%;
 }
