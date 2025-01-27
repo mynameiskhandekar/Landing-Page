@@ -90,3 +90,20 @@ ul {
     margin: 30px;
     text-align: center;
  }
+
+.section3 {
+    background-color: #E5E7EB;
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+    /* padding: 300px 450px; */
+}
+.para {
+    font-size: 32px;
+    color: #1F2937;
+}
+.author {
+    color: #1F2937;
+    font-weight: bold;
+    align-self: flex-end;
+}
